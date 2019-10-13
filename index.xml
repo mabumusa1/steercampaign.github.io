@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Steer Cmpaign</title>
+    <link>http://localhost/</link>
+    <description>Recent content in Home on Steer Cmpaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Tracking</title>
+      <link>http://localhost/marketing-automation/website-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/website-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution</title>
+      <link>http://localhost/marketing-automation/customer-attribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/customer-attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation Goals</title>
+      <link>http://localhost/marketing-automation/goal-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/goal-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation Map</title>
+      <link>http://localhost/marketing-automation/automation-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/automation-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact &amp; Lead Scoring</title>
+      <link>http://localhost/sales-crm/lead-scoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/sales-crm/lead-scoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conversations</title>
+      <link>http://localhost/customer-messaging/conversations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/conversations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Content</title>
+      <link>http://localhost/email-marketing/dynamic-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/email-marketing/dynamic-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email Segmentation</title>
+      <link>http://localhost/email-marketing/email-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/email-marketing/email-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Tracking</title>
+      <link>http://localhost/marketing-automation/site-event-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/site-event-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Custom Audiences</title>
+      <link>http://localhost/customer-messaging/facebook-custom-audiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/facebook-custom-audiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost/about/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/about/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Sending</title>
+      <link>http://localhost/machine-learning/predictive-sending/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/machine-learning/predictive-sending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce Integration</title>
+      <link>http://localhost/sales-crm/salesforce-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/sales-crm/salesforce-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site Messaging</title>
+      <link>http://localhost/customer-messaging/site-messaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/site-messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMS</title>
+      <link>http://localhost/customer-messaging/sms-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/sms-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Action</title>
+      <link>http://localhost/marketing-automation/workflow-ab-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/workflow-ab-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Testing</title>
+      <link>http://localhost/email-marketing/ab-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/email-marketing/ab-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subscription Forms</title>
+      <link>http://localhost/email-marketing/signup-forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/email-marketing/signup-forms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Win Probability</title>
+      <link>http://localhost/machine-learning/win-probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/machine-learning/win-probability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

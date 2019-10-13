@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Messaging on Steer Cmpaign</title>
+    <link>http://localhost/customer-messaging/</link>
+    <description>Recent content in Messaging on Steer Cmpaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost/customer-messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conversations</title>
+      <link>http://localhost/customer-messaging/conversations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/conversations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Custom Audiences</title>
+      <link>http://localhost/customer-messaging/facebook-custom-audiences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/facebook-custom-audiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site Messaging</title>
+      <link>http://localhost/customer-messaging/site-messaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/site-messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMS</title>
+      <link>http://localhost/customer-messaging/sms-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/customer-messaging/sms-marketing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

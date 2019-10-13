@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing Automation on Steer Cmpaign</title>
+    <link>http://localhost/marketing-automation/</link>
+    <description>Recent content in Marketing Automation on Steer Cmpaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost/marketing-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Tracking</title>
+      <link>http://localhost/marketing-automation/website-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/website-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution</title>
+      <link>http://localhost/marketing-automation/customer-attribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/customer-attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation Goals</title>
+      <link>http://localhost/marketing-automation/goal-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/goal-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation Map</title>
+      <link>http://localhost/marketing-automation/automation-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/automation-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Tracking</title>
+      <link>http://localhost/marketing-automation/site-event-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/site-event-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Action</title>
+      <link>http://localhost/marketing-automation/workflow-ab-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/marketing-automation/workflow-ab-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

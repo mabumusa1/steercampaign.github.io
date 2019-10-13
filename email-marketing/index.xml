@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email Marketing on Steer Cmpaign</title>
-    <link>http://localhost/email-marketing/</link>
+    <link>https://steercampaign.com/email-marketing/</link>
     <description>Recent content in Email Marketing on Steer Cmpaign</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost/email-marketing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://steercampaign.com/email-marketing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dynamic Content</title>
-      <link>http://localhost/email-marketing/dynamic-content/</link>
+      <link>https://steercampaign.com/email-marketing/dynamic-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/email-marketing/dynamic-content/</guid>
+      <guid>https://steercampaign.com/email-marketing/dynamic-content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Email Segmentation</title>
-      <link>http://localhost/email-marketing/email-segmentation/</link>
+      <link>https://steercampaign.com/email-marketing/email-segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/email-marketing/email-segmentation/</guid>
+      <guid>https://steercampaign.com/email-marketing/email-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Split Testing</title>
-      <link>http://localhost/email-marketing/ab-testing/</link>
+      <link>https://steercampaign.com/email-marketing/ab-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/email-marketing/ab-testing/</guid>
+      <guid>https://steercampaign.com/email-marketing/ab-testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subscription Forms</title>
-      <link>http://localhost/email-marketing/signup-forms/</link>
+      <link>https://steercampaign.com/email-marketing/signup-forms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/email-marketing/signup-forms/</guid>
+      <guid>https://steercampaign.com/email-marketing/signup-forms/</guid>
       <description></description>
     </item>
     

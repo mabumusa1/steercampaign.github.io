@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pricing on Steer Cmpaign</title>
-    <link>http://localhost/pricing/</link>
+    <link>https://steercampaign.com/pricing/</link>
     <description>Recent content in Pricing on Steer Cmpaign</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://steercampaign.com/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -457,9 +457,9 @@ iframe {
 
 .navbar-brand{
 	font-family: 'Cabin', sans-serif;
-	font-size: 28px;
-	font-weight: 700;
-	color: #252525!important;
+	font-size: 22px;
+	font-weight: 500;
+	text-transform: capitalize;
 }
 
 .navbar-fixed-top.opaque .navbar-brand{
@@ -575,6 +575,10 @@ iframe {
 	color: #1089d4!important;
 	background:  transparent;
 	border: 2px solid #1089d4;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #ffffff;
 }
 
 /* ========================================================== */
@@ -2069,3 +2073,7 @@ ul.partners-mentions li img:hover {
 
 
 /* ============= BreadCrumb ===================== */
+
+.secondary-nav {
+	background-color: #1e90ff;
+}
